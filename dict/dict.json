@@ -4,7 +4,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "人。人間。永球人。"
+        "explanation": "人。人間。中球人。"
       }
     ],
     "append": [
@@ -13,7 +13,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ha1",
+    "pron": "ka1",
     "num": "1"
   },
   {
@@ -30,7 +30,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nai2",
+    "pron": "nai3",
     "num": "2"
   },
   {
@@ -47,11 +47,11 @@
         "explanation": ""
       }
     ],
-    "pron": "taos3",
+    "pron": "taol2",
     "num": "3"
   },
   {
-    "word": "開手",
+    "word": "手先",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -64,8 +64,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ve1 taos3",
-    "num": "-"
+    "pron": "taol2 ya3",
+    "num": "4"
   },
   {
     "word": "我",
@@ -81,8 +81,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xe3",
-    "num": "4"
+    "pron": "xing3",
+    "num": "5"
   },
   {
     "word": "木",
