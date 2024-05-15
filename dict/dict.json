@@ -76,7 +76,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "日教の三十元素の一つ。"
       }
     ],
     "append": [
@@ -85,7 +85,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2",
+    "pron": "qa1",
     "num": "5"
   },
   {
@@ -93,7 +93,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "きのこ。マッシュルーム。ある程度の大きさの菌類。"
+        "explanation": "きのこ。マッシュルーム。"
       }
     ],
     "append": [
@@ -102,7 +102,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2 me2",
+    "pron": "qa1 mi2",
     "num": "-"
   },
   {
@@ -114,7 +114,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "日教の三十元素の一つ。"
       },
       {
         "partOfSpeech": "名",
@@ -127,11 +127,11 @@
         "explanation": ""
       }
     ],
-    "pron": "so3",
+    "pron": "cen3",
     "num": "6"
   },
   {
-    "word": "水丸",
+    "word": "水玉",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -144,7 +144,7 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 luong3",
+    "pron": "cen3 li1",
     "num": "-"
   },
   {
@@ -161,7 +161,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ge2",
+    "pron": "yaom2",
     "num": "7"
   },
   {
@@ -169,11 +169,11 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "食べる。食事する。噛み砕いてから飲み込む。"
+        "explanation": "食べる。食事する。噛んでから飲み込む。"
       },
       {
         "partOfSpeech": "名",
-        "explanation": "食べ物。食べて吸収できるすべての固体。"
+        "explanation": "食べ物。食べて吸収できるすべての固体。(子供が牛のホルモン硬いとか関係なく)"
       }
     ],
     "append": [
@@ -183,18 +183,18 @@
       },
       {
         "type": "類",
-        "explanation": "餐。こちらは調理された料理を指す。それに対して名詞としての「食」は、調理されていない生野菜なども含む。"
+        "explanation": "餐。こちらは調理された料理を指す。それに対して名詞での食は生の食べ物も含む。"
       }
     ],
-    "pron": "bua1",
+    "pron": "bun1",
     "num": "8"
   },
   {
-    "word": "果",
+    "word": "果",は
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "果物。フルーツ。"
+        "explanation": "果物。フルーツ。果実。"
       }
     ],
     "append": [
@@ -203,7 +203,7 @@
         "explanation": ""
       }
     ],
-    "pron": "baon2",
+    "pron": "naon2",
     "num": "9"
   },
   {
@@ -220,7 +220,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1 baon2",
+    "pron": "ve3 naon2",
     "num": "-"
   },
   {
@@ -237,7 +237,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kus3",
+    "pron": "sul",
     "num": "10"
   },
   {
@@ -245,7 +245,7 @@
     "mean": [
       {
         "partOfSpeech": "形",
-        "explanation": "大きい。三次元的に大きい。"
+        "explanation": "大きい。三次元的に大きい。でかい"
       },
       {
         "partOfSpeech": "形",
@@ -253,7 +253,7 @@
       },
       {
         "partOfSpeech": "副",
-        "explanation": "よく。"
+        "explanation": "よく。良い。"
       }
     ],
     "append": [
@@ -262,7 +262,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3",
+    "pron": "luong4",
     "num": "11"
   },
   {
@@ -270,7 +270,7 @@
     "mean": [
       {
         "partOfSpeech": "形",
-        "explanation": "小さい。"
+        "explanation": "小さい。チビ"
       }
     ],
     "append": [
@@ -279,7 +279,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1",
+    "pron": "dun3",
     "num": "12"
   },
   {
@@ -304,7 +304,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2",
+    "pron": "gaol4",
     "num": "13"
   },
   {
@@ -321,7 +321,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nun2",
+    "pron": "qim3",
     "num": "14"
   },
   {
@@ -333,7 +333,7 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "日教の三十元素の一つ。"
       }
     ],
     "append": [
@@ -342,32 +342,27 @@
         "explanation": ""
       }
     ],
-    "pron": "ao3",
+    "pron": "dim1",
     "num": "15"
   },
   {
-    "word": "火",
+    "word": "水土",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "火。炎。"
+        "explanation": "泥。泥水。"
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の五元素の一つ。"
+        "explanation": "日教の三十元素の一つ。"
       },
-      {
-        "partOfSpeech": "名",
-        "explanation": "原子番号8(O)の略称。"
-      }
-    ],
     "append": [
       {
         "type": "",
         "explanation": ""
       }
     ],
-    "pron": "tang2",
+    "pron": "cen3 dim1",
     "num": "16"
   },
   {
