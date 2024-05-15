@@ -1,22 +1,5 @@
 [
   {
-    "word": "人",
-    "mean": [
-      {
-        "partOfSpeech": "名",
-        "explanation": "人。人間。中球人。"
-      }
-    ],
-    "append": [
-      {
-        "type": "",
-        "explanation": ""
-      }
-    ],
-    "pron": "ka1",
-    "num": "1"
-  },
-  {
     "word": "力",
     "mean": [
       {
