@@ -16,7 +16,7 @@ main {
 
 button {
     border: none;
-    background-color: #014f41;
+    background-color: #00aa46;
     color: white;
     padding: 5px 8px;
     border-radius: 5px;
@@ -155,7 +155,7 @@ button {
 
 @font-face {
     font-family: "PhunWrite";
-    src: url(./fonts/PhunWrite-Regular.woff) format("woff");
+    src: url(./fonts/a.ttf) format("ttf");
 }
 
 @font-face {
